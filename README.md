@@ -36,13 +36,6 @@ Neste projeto pratiquei:
 * Adaptação de conteúdo para diferentes dispositivos
 * Boas práticas de HTML
 
-## 🚀 Melhorias futuras
-
-* Aplicar estilização com CSS
-* Melhorar a organização visual
-* Criar layout mais moderno
-* Adicionar mais variações de imagem
-
 ## 👨‍💻 Autor
 
 Gabriel Forcinito
