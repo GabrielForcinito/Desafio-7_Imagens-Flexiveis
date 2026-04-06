@@ -24,8 +24,8 @@ Projeto desenvolvido em HTML com o objetivo de praticar o uso de imagens respons
 
 
 ## 💻 Como executar
-
-Basta abrir o arquivo `index.html` em qualquer navegador.
+1. Baixe ou clone este repositório
+2. Abra o arquivo `index.html` em seu navegador
 
 ## 📚 Aprendizado
 
